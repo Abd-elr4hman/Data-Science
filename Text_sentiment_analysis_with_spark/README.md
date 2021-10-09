@@ -4,6 +4,7 @@ classify tweets polarity (positive/negative), this implementation uses data from
 https://www.kaggle.com/kazanova/sentiment140.
 
 This implementation:
+
 • Preprocesses and cleans the text.
 
 • Trains a Logistic regression model to classify tweets using spark’s Mllib.
