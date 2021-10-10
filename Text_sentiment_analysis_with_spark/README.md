@@ -1,6 +1,6 @@
 # Real time Sentiment analysis using spark Mllib and spark structured streaming 
 This project presents a sentiment analysis pipeline implementation using spark in python to 
-classify tweets polarity (positive/negative), this implementation uses data from kaggle, 
+classify tweets polarity (positive/negative), this implementation uses dataset from kaggle, 
 https://www.kaggle.com/kazanova/sentiment140.
 
 This implementation:
