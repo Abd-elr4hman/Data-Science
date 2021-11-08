@@ -1,5 +1,5 @@
 # Heart_Disease_DecisionTree_classifier
-This project Uses Decision Trees to classify the Heat disease dataset from UCI machine learning repository.
+This project Uses Decision Trees to classify the Heart disease dataset from UCI machine learning repository.
 https://archive.ics.uci.edu/ml/datasets/heart+disease.
 
 This project presents:
