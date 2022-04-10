@@ -1,0 +1,3 @@
+play player kill killer
+play player make maker
+play player create creator
