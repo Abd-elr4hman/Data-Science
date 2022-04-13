@@ -24,12 +24,6 @@ In this project I expirement with distributed semantic representations using Wor
 ['Athens', 'Greece', 'Beijing', 'China'],  
 ['Athens', 'Greece', 'Berlin', 'Germany']]
 
-### Test on capital_common_countries analogy Ex:
-[['Athens', 'Greece', 'Baghdad', 'Iraq'],  
-['Athens', 'Greece', 'Bangkok', 'Thailand'],  
-['Athens', 'Greece', 'Beijing', 'China'],  
-['Athens', 'Greece', 'Berlin', 'Germany']]
-
 ### Test on currency analogy analogy Ex:
 [['Algeria', 'dinar', 'Angola', 'kwanza'],  
 ['Algeria', 'dinar', 'Argentina', 'peso'],  
@@ -43,3 +37,6 @@ The following numbers represent accuracy wheras accuracy is calculated as correc
 | Glove50d | 0.35 | 0.60 | 0.80 | 0.08 |
 | Glove100d | 0.58 | 0.71 | 0.93 | 0.14 |
 | word2vec | 0.68 | 0.89 | 0.83 | 0.35 |
+
+
+![download (3)](https://user-images.githubusercontent.com/87248009/163086976-bd6b28bf-0160-41f3-9535-046685b9444b.png)
