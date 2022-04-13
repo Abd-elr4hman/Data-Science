@@ -31,7 +31,7 @@ In this project I expirement with distributed semantic representations using Wor
 ['Algeria', 'dinar', 'Brazil', 'real']]
  
 # Results:
-The following numbers represent accuracy wheras accuracy is calculated as correctly answered / number of examples on each analogy test.
+The following numbers represent accuracy. accuracy is calculated as correctly answered / number of examples on each analogy test.
 | Model \ analogy test | plural verbs| plural nouns | capital common countries | currency |
 | --- | --- | --- | --- | --- |
 | Glove50d | 0.35 | 0.60 | 0.80 | 0.08 |
