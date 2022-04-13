@@ -1,4 +1,4 @@
-# Distributed semantic representations expiremints
+# Distributed semantic representations
 In this project I expirement with distributed semantic representations using Word2vec, Glove50d and Glove100d implementations
 
 - Dense distributed representations represent words as embeddings in a continuous vector space where semantically similar words are mapped to nearby points.
