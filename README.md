@@ -2,6 +2,7 @@
 Repository containing DataScience projects.
 
 ## Contents
+- [U.S. Patent Phrase to Phrase Matching - Kaggle](https://github.com/Abd-elr4hman/Data-Science/tree/main/PTP_matching_kaggle_competition): Notebooks created for the kaggle PTP matching competition. EDA, Siamese LSTM network, 'Bert-for-patents' using Hugging face and Keras, Sentence-Transformers with 'AI-Growth-Lab/PatentSBERTa'.
 - [Distributed semantic representations](https://github.com/Abd-elr4hman/Data-Science/tree/main/Distributed%20semantic%20representations%20expiremints): In this project I expirement with distributed semantic representations on different analogy tests using Word2vec, Glove50d and Glove100d implementations.
 - [Text_sentiment_analysis_with_spark](https://github.com/Abd-elr4hman/Data-Science/tree/main/Text_sentiment_analysis_with_spark): This project presents a  text sentiment analysis pipeline implementation using Pyspark to classify tweets polarity (positive/negative), then applies the Pipeline to streaming tweets from twitter API using spark’s structured 
 straming, and streams the output to parquet files.
